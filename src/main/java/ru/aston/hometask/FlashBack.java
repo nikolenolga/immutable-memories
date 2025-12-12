@@ -1,4 +1,4 @@
-package olga.nikolenko;
+package ru.aston.hometask;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
